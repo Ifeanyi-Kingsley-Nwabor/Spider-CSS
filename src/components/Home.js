@@ -7,7 +7,7 @@ const Home = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          click <a href="/page">here</a> to view the home page.
+          click <a href="/page">here</a> to view page.
         </p>
         <a
           className="App-link"
