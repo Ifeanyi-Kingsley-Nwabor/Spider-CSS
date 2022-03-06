@@ -56,7 +56,7 @@ const Contact = () => {
               <div className="tooltip">
                 <a
                   className="contact_links"
-                  href="https://github.com/Ifeanyi-Kingsley-Nwabor"
+                  href="https://github.com/Ifeanyi-Kingsley-Nwabor/Spider-CSS.git"
                   target="_blank"
                   rel=" noreferrer noopener"
                 >
