@@ -18,11 +18,11 @@ const Tutorials = () => {
           </p>
         </div>
       </div>
-      <div className="row_x css-materials">
-        <div className="column_x">
+      <div className="row css-materials">
+        <div className="col s10 m6 l5  ">
           <CssPlatform />
         </div>
-        <div className="column_x">
+        <div className="col s10 m6 l5  ">
           <CssFrameworks />
         </div>
       </div>
